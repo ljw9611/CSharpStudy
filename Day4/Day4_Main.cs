@@ -19,8 +19,8 @@ namespace Day4_Main
             //BitOperator bitOperator = new BitOperator();
             //bitOperator.BitOperatorEX();
 
-            ConditonalOperator conditonalOperator = new ConditonalOperator();
-            conditonalOperator.conditonalOperator();
+            //ConditonalOperator conditonalOperator = new ConditonalOperator();
+            //conditonalOperator.conditonalOperator();
         }
     }
 }
