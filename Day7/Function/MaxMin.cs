@@ -13,7 +13,8 @@ namespace N_MaxMin
             if (x < y)
             {
                 return x;
-            } else
+            }
+            else
             {
                 return y;
             }
