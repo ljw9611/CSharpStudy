@@ -4,6 +4,7 @@ using N_while_dowhile;
 using N_Break;
 using N_goto;
 using N_Array;
+using N_JaggedArray;
 
 namespace Day6
 {
@@ -20,9 +21,11 @@ namespace Day6
             //@goto @goto = new @goto();
             //@goto.gotoEx();
             
-            Arr array = new Arr();
-            array.arrayEx();
+            //Arr array = new Arr();
+            //array.arrayEx();
 
+            JaggedArray jaggedArray = new JaggedArray();
+            jaggedArray.JaggedArrayEx();
         }
     }
 }
