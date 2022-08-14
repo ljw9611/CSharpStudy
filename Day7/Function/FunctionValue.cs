@@ -14,5 +14,6 @@ namespace N_FunctionValue
             int result = Calculation(a, b); // result = 2 * 4
             Console.WriteLine(result);
         }
+        
     }
 }

@@ -6,6 +6,8 @@ using N_MethodOverload;
 using N_Recursion;
 using N_FunctionScope;
 using N_ArrowFunction;
+using N_LocalFunction;
+using N_MathClass;
 
 namespace Day7
 {
@@ -41,9 +43,14 @@ namespace Day7
             //FunctionScope functionScope = new FunctionScope();
             //functionScope.FunctionScopeMain();
 
-            ArrowFunction arrowFunction = new ArrowFunction();
-            arrowFunction.ArrowMain();
+            /*ArrowFunction arrowFunction = new ArrowFunction();
+            arrowFunction.ArrowMain();*/
 
+            /*LocalFunction localFunction = new LocalFunction();
+            localFunction.LocalMain();*/
+
+            MathClass mathClass = new MathClass();
+            mathClass.MathClassEx();
         }
     }
 }
